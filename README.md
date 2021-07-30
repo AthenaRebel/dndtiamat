@@ -1,1 +1,2 @@
-# dndtiamat
+# Tiamat Bot
+//CURRENTLY AN IDEA//
